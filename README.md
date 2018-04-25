@@ -1,21 +1,21 @@
-# translate
+# 说明
 
-> A Vue.js project
+> 这是我刚开始学vue做的第一个Demo，感觉融汇了很多基础知识！
 
-## Build Setup
+## 项目运行
 
 ``` bash
-# install dependencies
+# 克隆到本地 
+
+
+# 进入文件夹
+cd TranslateDome
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动本地服务
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
